@@ -1,0 +1,5 @@
+run_app.bat
+customer_churn_model.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
